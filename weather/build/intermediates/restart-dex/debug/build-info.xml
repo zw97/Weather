@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="23"
+    density="xxhdpi"
+    format="7"
+    timestamp="832735514496"
+    token="3044735571890805734" >
+
+    <task
+        name="javac"
+        duration="374" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="162" />
+    <task
+        name="verifier"
+        duration="53" />
+
+    <artifact
+        location="E:\Android\W\weather\build\outputs\apk\weather-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="832735514496" >
+        <artifact
+            location="E:\Android\W\weather\build\outputs\apk\weather-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

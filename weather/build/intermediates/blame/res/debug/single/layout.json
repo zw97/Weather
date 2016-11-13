@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\Android\\W\\weather\\build\\intermediates\\res\\merged\\debug\\layout\\activity_send.xml",
+        "source": "E:\\Android\\W\\weather\\src\\main\\res\\layout\\activity_send.xml"
+    },
+    {
+        "merged": "E:\\Android\\W\\weather\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\Android\\W\\weather\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]
